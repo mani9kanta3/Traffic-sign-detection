@@ -49,4 +49,3 @@ Sample output demonstrates correct identification of multiple traffic signs with
 ## 📂 Dataset
 
 The dataset was exported from Roboflow in YOLOv8 and TensorFlow formats. It includes annotated images of traffic signs suitable for training and evaluation.
-# Traffic-sign-detection
